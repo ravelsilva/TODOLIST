@@ -56,3 +56,9 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Próximos Passos
+
+- Adicionar Local Storage
+
+Um dos próximos passos importantes para este projeto é a implementação do Local Storage. Isso permitirá que as tarefas sejam salvas no navegador do usuário, garantindo que as informações sejam preservadas mesmo após o fechamento do navegador ou recarregamento da página. Isso melhora significativamente a experiência do usuário, tornando a aplicação mais robusta e funcional.
