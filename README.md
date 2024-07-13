@@ -1,6 +1,3 @@
-Claro, aqui está uma versão atualizada do README com um espaço reservado para inserir imagens do projeto:
-
----
 
 # Todo List
 
