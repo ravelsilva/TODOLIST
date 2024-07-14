@@ -12,7 +12,7 @@ Simple and intuitive Todo List web application.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [NextSteps](#nextsteps)
+- [Next Steps](#next-steps)
 
 ## Overview
 
@@ -56,6 +56,6 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 This project is licensed under the [MIT License](LICENSE).
 
-## NextSteps
+## Next Steps
 
 - Implement localStorage for deleted items.
